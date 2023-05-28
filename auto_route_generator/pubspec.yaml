@@ -18,6 +18,7 @@ dependencies:
   glob: ^2.0.1
   auto_route: 
     git:
+      ref: master
       url: https://github.com/Babwenbiber/auto_route_library
       path: auto_route
 
