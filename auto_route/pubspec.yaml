@@ -22,7 +22,7 @@ dev_dependencies:
   auto_route_generator: 
     git:
       ref: master
-      url: https://github.com/Babwenbiber/auto_route_library
+      url: https://github.com/Babwenbiber/auto_route_library.git
       path: auto_route_generator
   flutter_test:
     sdk: flutter
