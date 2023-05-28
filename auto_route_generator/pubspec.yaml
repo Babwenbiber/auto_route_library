@@ -16,7 +16,10 @@ dependencies:
   xml: ^6.0.1
   args: ^2.3.1
   glob: ^2.0.1
-  auto_route: ^7.2.0
+  auto_route: 
+    git:
+      url: https://github.com/Babwenbiber/auto_route_library
+      path: auto_route
 
 dev_dependencies:
   flutter_lints: ^2.0.1
