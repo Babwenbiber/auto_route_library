@@ -19,7 +19,7 @@ dependencies:
   auto_route: 
     git:
       ref: master
-      url: https://github.com/Babwenbiber/auto_route_library
+      url: https://github.com/Babwenbiber/auto_route_library.git
       path: auto_route
 
 dev_dependencies:
